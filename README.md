@@ -1,1 +1,1 @@
-# JavaFundamentals Homework
+# Java Fundamentals Homework
